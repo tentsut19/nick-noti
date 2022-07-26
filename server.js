@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const port = process.env.PORT || 80;
-const lineNotify = require('line-notify-nodejs')('QOu7wUPQtkbxYa2cC9xwyXziqbyVNfnlxdO8v706KFJ');
+const lineNotify = require('line-notify-nodejs')('fXNljkWjCVJNI67Xig3LnBqXDT1f0BITyUIiEknmJWf');
 //const lineNotify = require('line-notify-nodejs')('EXRX6ACTKKL6rVB3wyGPa6xRWBix1ykMMPbu9MCXK8K');
 
 app.use(
